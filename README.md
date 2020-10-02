@@ -1,2 +1,2 @@
 # hello-world
-Initial repository for tfaining
+Initial repository for training
